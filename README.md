@@ -3,6 +3,10 @@
 ## Introduction
 This project, titled "Confrontation Games 1.01," was developed as part of a university project at the University of Metz. It encompasses a collection of interactive games presented within a central menu.
 
+## Author
+
+- [Anto1n3c](https://github.com/Anto1n3c)
+
 ## Included Games
 1. **La Suite Mystere**
    - Objective: Discover the 4th term of a mathematical sequence.
